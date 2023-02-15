@@ -23,19 +23,19 @@ les éléments analysées dans /var/log sont :
 /home/henry/FORENSIC_TP_EKWALA_HENRY/TP03/Images/accesslog.PNG
 
 Listes des adresses ip à l'origine de la demande au serveur :
-194.165.16.71
-159.223.196.15
-185.254.196.223
-66.240.192.138 
-143.110.234.221 
-185.74.5.84 
-20.206.73.93 
-2.57.122.209 
-188.166.232.196
-174.138.61.80 
-138.66.89.12 
-152.89.196.211 
-104.243.33.163 avec le code 405 qui signifie que la methode de requete est non autorisée ce qui fait de cette adresse un suspect
+194.165.16.71,
+159.223.196.15,
+185.254.196.223,
+66.240.192.138, 
+143.110.234.221, 
+185.74.5.84, 
+20.206.73.93, 
+2.57.122.209, 
+188.166.232.196,
+174.138.61.80, 
+138.66.89.12, 
+152.89.196.211, 
+uniquement l'adresse 104.243.33.163 avec le code 405 qui signifie que la methode de requete est non autorisée ce qui fait de cette adresse un suspect
 
 D'après l'analyse de tous ces fichiers, l'attaquant a efféctué de multiples requete au serveur et a finalement accéder jusqu'à  mettre en place un acces spécifique pour lui sur notre serveur web
 
