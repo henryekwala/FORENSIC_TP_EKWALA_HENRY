@@ -39,7 +39,13 @@ Listes des adresses ip à l'origine de la demande au serveur :
 
 D'après l'analyse de tous ces fichiers, l'attaquant a efféctué de multiples requete au serveur et a finalement accéder jusqu'à  mettre en place un acces spécifique pour lui sur notre serveur web
 
+- Analyse de qui a fait quoi sur le système avec who et w
 
+/home/henry/FORENSIC_TP_EKWALA_HENRY/TP03/Images/analyse.PNG
+
+
+- Analyse des traces d'authentification 
+Rien a signaler 
 
 *other_vhosts_access.log ne contient aucune information
 
