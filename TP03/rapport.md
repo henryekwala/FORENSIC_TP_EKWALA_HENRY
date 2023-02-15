@@ -77,7 +77,7 @@ En Conclusion de l'analyse les objectifs ont  été remplis car les données rec
                          Recommandations
 
 Pour renforcer la sécurité informatique faudra tout d'abord sécuriser son serveur web apaches en https au lien de http
-bloquer tous les ports non autorisées sur le serveur web
+bloquer tous les ports et connexions  non autorisées sur le serveur web
 prevoir un reverse proxy pour le serveur web
 mettre en place un serveur d'authentification
 
